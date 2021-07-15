@@ -7,14 +7,13 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>9500 Gilman Dr</p>
-    <p>La Jolla, CA 92093</p>
+  
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I'm a master's student majoring in computer science at [UCSD](https://ucsd.edu/). I achieved Bachelor of Science in Intelligence Science and Technology at Sun Yat-sen University in 2020.
+I'm a master's student majoring in computer science at [UCSD](https://ucsd.edu/). I received my Bachelor of Science in Intelligence Science and Technology at [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm) in 2020.
 
 I’m interested in the algorithms of the brain in decision-making tasks, i.e. how neurons generate representations and process information guided by basic computational principles. I study at the intersection of artificial intelligence and neuroscience to use models in AI to better understand brain’s processes and develop novel brain-inspired AI algorithms.
 
