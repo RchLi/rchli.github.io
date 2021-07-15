@@ -2,13 +2,11 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-
+description: <a href="https://ucsd.edu/">UCSD</a>. 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    # <p>555 your office number</p>
     <p>9500 Gilman Dr</p>
     <p>La Jolla, CA 92093</p>
 
