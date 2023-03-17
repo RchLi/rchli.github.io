@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+Knujsl5/1z7id1REAMYZg0fv0vxQ3Bk+sUZKKK6g3D1V0I" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/assets/main.css">
+  <title>{{ site.title }}</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <!-- {% include navigation.html %} -->
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1 class="title">{{ page.title }}</h1>
+    <!-- <div class="contact-info">
+        <a href="mailto:{{ page.email }}" class="email-link" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-envelope"></i>
+          </a>
+          <a href="{{ page.github }}" class="github-link" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-github"></i>
+          </a>          
+    </div> -->
+    <div class="contact-info">
+        <div class="email-wrapper">
+            <a href="mailto:{{ site.email }}" class="email-link">
+                <i class="fas fa-envelope"></i>
+              </a>
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          </div>
+          <!-- <a href="{{ page.github }}" class="github-link" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-github"></i>
+          </a>    -->
+      </div>
+
+    <div class="content-wrapper">
+      <div class="content">
+        {{ content }}
+      </div>
+      <div class="selfie">
+        <img src="/assets/img/self.jpg" alt="Selfie" />
+      </div>
+    </div>
+  </main>
+</body>
+</html>
