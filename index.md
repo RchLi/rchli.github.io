@@ -5,6 +5,4 @@ email: ruichnli@gmail.com
 github: "https://github.com/Rchli"
 ---
 
-I’m a master’s student majoring in computer science at UCSD. I received my Bachelor of Science in Intelligence Science and Technology at Sun Yat-sen University in 2020.
-
-I’m interested in the algorithms of the brain in decision-making tasks, i.e. how neurons generate representations and process information guided by basic computational principles. I study at the intersection of artificial intelligence and neuroscience to use models in AI to better understand brain’s processes and develop novel brain-inspired AI algorithms.
+I am intrigued by the functional connectivity and coordination between the neocortex and the hippocampus, as they play crucial roles in orchestrating a multitude of cognitive processes, including decision-making and memory consolidation. I believe this investigation shall shed light on the intricate interplay between different brain regions and serve as a proactive exploration of  more complex phenomenon such as consciousness.
